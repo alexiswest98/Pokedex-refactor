@@ -50,3 +50,20 @@ class Pokemon(db.Model):
     encounter_rate = db.Column(db.Float)
     catch_rate = db.Column(db.Float)
     captured = db.Column(db.Boolean)  #no validations
+
+
+
+    # Evan morgan evan morgan
+    #    Evan morgan evan morgan
+    #       Evan morgan evan morgan
+    #          Evan morgan evan morgan
+    #             Evan morgan evan morgan
+    #                Evan morgan evan morgan
+    #                   Evan morgan evan morgan
+    #                      Evan morgan evan morgan
+    #                         Evan morgan evan morgan
+    #                            Evan morgan evan morgan
+    #                               Evan morgan evan morgan
+    #                                  Evan morgan evan morgan
+    #                                     Evan morgan evan morgan
+    #                                        Evan morgan evan morgan
